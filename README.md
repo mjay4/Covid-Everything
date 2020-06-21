@@ -1,13 +1,16 @@
-# awareness-today
+# Awareness-today
 It was a Hackathon Project organised by HackJaipur Team. It's solely for Educational Purpose. It shows all latest updates related to COVID-19
 
 This project is Made by Team System Zombies for HackJaipur Hackathon :
 
 Team Members:
 
-Pritam Lamkhade : https://www.linkedin.com/in/pritamlamkhade/
+Pritam Lamkhade : https://www.linkedin.com/in/pritamlamkhade/ 
+
 Vijaya Mishra : https://www.linkedin.com/in/vijayamishra09/
-Manav Bansal : https://www.linkedin.com/in/manavbansal11031998/
+
+Manav Bansal : https://www.linkedin.com/in/manavbansal11031998/ 
+
 Mritunjay Choubey : https://www.linkedin.com/in/mjay4/
 
 Overview :
@@ -24,7 +27,7 @@ epass - Contains the link to all the goverment websites providing the epass.
 
 index.html - Home Page.
 
-precautions.html - Contains the Precaution page, it contains the precautions that we should take to prevent ourselfs from geting infected .
+precautions.html - Contains the Precaution page, it contains the precautions that we should take to prevent ourselves from getting infected .
 
 statistics.html - This page is linked to stats.js file in Assets, this file collects data from free available and reliable API.
 
