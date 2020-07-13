@@ -1,4 +1,6 @@
 # Covid-Everything : One stop to all covid related information. 
+
+To access the website in action : https://mjay4.github.io/Covid-Everything/
 It was a Hackathon Project organised by HackJaipur Team. It's solely for Educational Purpose. It shows all latest updates related to COVID-19
 
 This project is Made by Team System Zombies for HackJaipur Hackathon :
