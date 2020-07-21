@@ -2,7 +2,7 @@
 
 To access the website in action : https://mjay4.github.io/Covid-Everything/
 
-<strong>NOTE : Now chatbot and Feedback form is not working.</strong>
+<strong>NOTE : Now chatbot is not working.</strong>
 <br><br>
 It was a Hackathon Project organised by HackJaipur Team. It's solely for Educational Purpose. It shows all latest updates related to COVID-19
 
